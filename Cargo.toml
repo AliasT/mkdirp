@@ -1,0 +1,11 @@
+[package]
+name = "mkpir"
+version = "0.0.1"
+authors = ["chaixb <1481569358@qq.com>"]
+edition = "2018"
+description = "mkdir recursive"
+repository = "https://github.com/aliast/mkdirp"
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
